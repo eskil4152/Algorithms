@@ -1,3 +1,5 @@
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/927ea2fdbd3049db991d2ed1ccc516f4)](https://app.codacy.com/gh/eskil4152/Algorithms/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade)
+
 # Algorithms Testing #
 
 ## TODO: 
